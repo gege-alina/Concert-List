@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Concert list
 //
-//  Created by georgiana.stefan on 22/06/2021.
+//  Created by georgiana.stefan on
 //
 
 import UIKit
